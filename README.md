@@ -1,4 +1,4 @@
-# hello-world
-A first message to github
+# Simple Blur Program by python
 
-Hi I'm lch32111. This is my frist trial. I hope my ability will be improved.
+You can blur your image by clicking on the program.
+It's pretty simple. And It can be developed more for the fun of my creating later.
